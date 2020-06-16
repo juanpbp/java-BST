@@ -11,5 +11,5 @@ Dalam program ini terdapat fitur menu yang memungkinkan untuk memilih fungsi yan
 8. menampilkan data terkecil yang ada pada BST
 9. menghapus seluruh isi tree BST (reset BST)
 
-Penjelasan lengkap dan gambar semua ada pada bagian WIKI
+Penjelasan lengkap dan gambar semua ada pada bagian WIKI atau https://github.com/juanpbp/java-BST/wiki
 Terimakasih
